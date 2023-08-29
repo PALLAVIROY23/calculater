@@ -12,7 +12,7 @@ class CalculatorApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Calculator',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.blueGrey,
       ),
       home: CalculatorScreen(),
     );
